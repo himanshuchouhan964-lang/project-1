@@ -32,7 +32,7 @@ nav img {
 }
 .nav-links ul li a {
   color: #fff;
-  text-decoration: none;
+  text-decoration: none !important;
   font-size: 18px;
 }
 .nav-links ul li :hover {
