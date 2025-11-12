@@ -18,7 +18,8 @@ nav {
   align-items: center;
 }
 nav img {
-  width: 220px;
+  width: 150px;
+  margin-right: 20rem;
 }
 .nav-links {
   text-align: right;
@@ -60,6 +61,11 @@ nav img {
 .text-box h1 {
   font-size: 62px;
 }
+.text-box h2{
+  font-size: 35px;
+  margin-top: 20px;
+}
+
 .text-box p {
   margin: 13px 0 35px;
   font-size: 19px;
