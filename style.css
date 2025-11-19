@@ -19,7 +19,7 @@ nav {
 }
 nav img {
   width: 150px;
-  margin-right: 20rem;
+  margin-right: 2rem;
 }
 .nav-links {
   text-align: right;
@@ -32,12 +32,12 @@ nav img {
   position: relative;
 }
 .nav-links ul li a {
-  color: #fff;
-  text-decoration: none !important;
+  color: #fff; 
+  text-decoration: none;
   font-size: 18px;
 }
-.nav-links ul li :hover {
-  color: rgb(206, 158, 158);
+.nav-links ul li a:hover {
+  color: rgb(112, 112, 243);
 }
 /* .text-box{
     width: 100%;

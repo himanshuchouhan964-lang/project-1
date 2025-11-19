@@ -1,0 +1,25 @@
+{
+  "name": "project_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuchouhan964-lang/project-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshuchouhan964-lang/project-1/issues"
+  },
+  "homepage": "https://github.com/himanshuchouhan964-lang/project-1#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
+}
